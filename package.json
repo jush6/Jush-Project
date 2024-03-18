@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "Jush Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jush6/Jush-Project.git"
+  },
+  "keywords": [
+    "jush"
+  ],
+  "author": "jush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jush6/Jush-Project/issues"
+  },
+  "homepage": "https://github.com/jush6/Jush-Project#readme"
+}
